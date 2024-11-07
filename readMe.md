@@ -1,0 +1,1 @@
+Creating the blog application for the repo.
